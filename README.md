@@ -1,7 +1,7 @@
 # Hi there 👋
 <img alt="Robot logo" src="https://github.com/peetck/peetck/blob/master/assets/developer.gif" align="right" height="150"/>
 
-<a href="https://www.facebook.com/picnic101/">
+<a href="https://www.facebook.com/picniccccc/">
   <img align="left" alt="Facebook" width="22px" src="https://github.com/peetck/peetck/blob/master/assets/facebook.svg" />
 </a>
 
