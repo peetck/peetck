@@ -27,4 +27,4 @@
 
 ## Some of my Github Stats 📊
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peetck&layout=compact&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peetck&layout=compact" />
