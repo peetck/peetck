@@ -5,7 +5,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://github.com/peetck/peetck/blob/master/assets/facebook.svg" />
 </a>
 
-<a href="https://www.instagram.com/picnicc101/">
+<a href="https://www.instagram.com/picnicc__/">
   <img align="left" alt="Instagram" width="22px" src="https://github.com/peetck/peetck/blob/master/assets/instagram.svg" />
 </a>
 
