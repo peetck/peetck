@@ -17,7 +17,7 @@
 
 ### About Me 
 
-- :boy: I am Sarun Yantabutr (Picnic) from Thailand :th:
+- :boy: I am Sarun Yantabutr (Picnic) from Thailand :thailand:
 
 - 🔭 I'm a 3rd Year undergraduate from King Mongkut's Institute of Technology Ladkrabang.
 
