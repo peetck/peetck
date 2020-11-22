@@ -1,18 +1,6 @@
 # Hi there 👋
 <img alt="Robot logo" src="https://github.com/peetck/peetck/blob/master/assets/developer.gif" align="right" height="150"/>
 
-<a href="https://www.facebook.com/picniccccc/">
-  <img align="left" alt="Facebook" width="22px" src="https://github.com/peetck/peetck/blob/master/assets/facebook.svg" />
-</a>
-
-<a href="https://www.instagram.com/picnicc__/">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/peetck/peetck/blob/master/assets/instagram.svg" />
-</a>
-
-<a href="https://leetcode.com/peetck/">
-  <img align="left" alt="Leetcode" width="22px" src="https://github.com/peetck/peetck/blob/master/assets/leetcode.svg" />
-</a>
-
 <br>
 
 ### About Me
