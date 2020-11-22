@@ -1,8 +1,6 @@
 # Hi there 👋
 <img alt="Robot logo" src="https://github.com/peetck/peetck/blob/master/assets/developer.gif" align="right" height="150"/>
 
-<br>
-
 ### About Me
 
 - 🌱 I am Sarun Yantabutr (Picnic) from Thailand :thailand:
