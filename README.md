@@ -5,8 +5,6 @@
 
 - 🌱 I am Sarun Yantabutr (Picnic) from Thailand :thailand:
 
-- 🔭 I'm a 3rd Year undergraduate from King Mongkut's Institute of Technology Ladkrabang.
-
 - ☕ I'm a little too addicted to coffee.
 
 - 📫 How to reach me: use the badges above 😃
