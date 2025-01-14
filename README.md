@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 🌱 I am Sarun Yantabutr (Picnic) from Thailand :thailand:
+- 🌱 I am Sarun Yantabutr (picnic.pp) from Thailand :thailand:
 
 - ☕ I'm a little too addicted to coffee.
 
