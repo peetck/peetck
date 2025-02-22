@@ -9,7 +9,3 @@
 - 🌱 I am Sarun Yantabutr (picnic.pp) from Thailand :thailand:
 
 - ☕ I'm a little too addicted to coffee.
-
-### Some of my github stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peetck&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
